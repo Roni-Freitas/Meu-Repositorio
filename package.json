@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "meu-repositorio",
+  "version": "1.0.0",
+  "description": "Projeto dedicado a aprender os conceitos básicos em programação com base no dev.tools do Deschamps ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Roni Freitas",
+  "license": "MIT"
+}
