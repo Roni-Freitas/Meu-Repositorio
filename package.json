@@ -9,8 +9,13 @@
   "description": "Projeto dedicado a aprender os conceitos básicos em programação com base no dev.tools do Deschamps ",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "Lint:check": "prettier --check .",
+    "Lint:fix": "prettier --write ."
   },
   "author": "Roni Freitas",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
