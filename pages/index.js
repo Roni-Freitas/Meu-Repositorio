@@ -1,5 +1,5 @@
 function Home() {
-    return<h1>Errei, fui mlk, me perdoem</h1>
+    return<h1>Vou sibr um game nesse projeto, mas sem pressa</h1>
 }
 
 export default Home;
